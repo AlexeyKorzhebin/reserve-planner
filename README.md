@@ -37,3 +37,4 @@ Open: http://127.0.0.1:8000
 - `requirements.txt` — dependencies.
 - `install.sh` / `install.bat` — install dependencies.
 - `run_web.sh` / `run_web.bat` — run the web UI.
+- `Spec/описание_алгоритма_расчета.md` — подробное описание алгоритма.
